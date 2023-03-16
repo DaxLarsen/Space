@@ -1,0 +1,11 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+html{
+	background-color: black;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
